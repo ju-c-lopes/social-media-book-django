@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "social-media"
+version = "0.1.0"
+description = "Social Media made with Django Framework"
+authors = ["Juliano <juliano.co.lopes@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
