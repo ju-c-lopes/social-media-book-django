@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 django = "*"
 tzdata = "*"
+pillow = "*"
 
 
 [build-system]
